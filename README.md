@@ -2,7 +2,7 @@
 
 Welcome to my page!
 
-- 🔭 I’m currently working on **Shopify hydrogen storefront**
+- 🔭 I’m currently working on **Quick commerce**
 
 ## Senior Full-Stack Engineer
 
@@ -12,11 +12,11 @@ I am a senior full-stack engineer with 8 years of expertise in web development
 
 My Proficient Skills:
 
-- Frontend: React(JS/TS), Zustand, Redux, Next.js, Tailwind CSS, Shopify hydrogen,Jest, Vue.js, Angular
+- Frontend: React(JS/TS), Zustand, Redux, Next.js,TRPC, T3 stack, Tailwind CSS, Shopify hydrogen,Jest, Vue.js, Angular
 - Backend: Python, Flask, NodeJS/ExpressJS
 - DB : MongoDB, MySQL, PostgreSQL, Redis
-- Cloud: AWS, GCP, Firebase, Vercel,Kubernetes
-- Mobile: Flutter, Android (Java)
+- Cloud: AWS, GCP, Firebase,Supabsae, Vercel,Kubernetes
+- Mobile: Reactnative (expo), Flutter, Android (Java)
 - Others: Data Science and Machine Learning, NLP, Spacy
 
 <h3>My skills are</h3>
